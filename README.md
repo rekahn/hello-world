@@ -1,2 +1,3 @@
 # hello-world
 learning how to use GitHub...
+Summer 2017 intern at MBARI.
